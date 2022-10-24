@@ -7,7 +7,7 @@ Das Smart AutoClicker Programm worauf der Bot basiert ist ist Open Source, hat k
 
 ## Installationsanleitung:
 
-### 1) Smart AutoClicker installieren ber die APK oder über den F-Droid App Store:
+### 1) Smart AutoClicker installieren, über die APK oder über den F-Droid App Store:
 
 Option A. Github Download Link:
 https://github.com/Nain57/Smart-AutoClicker/releases/latest/download/smartautoclicker-release.apk
@@ -24,7 +24,9 @@ Bei der ersten Ausführung Berechtigungen ("Über andere Apps einblenden", "Bedi
 Quellcode findet ihr hier bei Interesse oder falls ihr wie ich gerne überprüft welchen Programmen ihr vertraut:
 https://github.com/Nain57/Smart-AutoClicker
 
-### 2) Meine Backup-ZIP Datei (SmartAutoClicker-TikTokLiveLikeBot.zip) herunterladen und über das Ordner-Symbol im Smart AutoClicker importieren, dann jedes mal über Smart AutoClicker das "Szenario" (den Bot) anklicken/laden und von der Overlay Leiste die dann angezeigt wird beliebig auf Play, Pause, bearbeiten oder Stop drücken.
+### 2) Bot über ZIP Datei importieren:
+
+Ihr könnt nun meine Backup-ZIP Datei (SmartAutoClicker-TikTokLiveLikeBot.zip) herunterladen und über das Ordner-Symbol im Smart AutoClicker importieren, dann jedes mal über Smart AutoClicker das "Szenario" (den Bot also) von der Liste anwählen/laden und von der dannach angezeigten Overlay-Leiste beliebig auf Play, Pause, Bearbeiten oder Stop drücken.
 
 Download:
 https://github.com/morpheasgr/TikTokLiveLikeBot/releases/latest/download/SmartAutoClicker-TikTokLiveLikeBot.zip
