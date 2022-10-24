@@ -9,12 +9,12 @@ Das Smart AutoClicker Programm worauf der Bot basiert ist ist Open Source, hat k
 
 ### 1) Smart AutoClicker installieren, über die APK oder über den F-Droid App Store:
 
-Option A. Github Download Link:
+Option A: Github Download Link:
 https://github.com/Nain57/Smart-AutoClicker/releases/latest/download/smartautoclicker-release.apk
 
 Oder
 
-Option B. F-Droid Download Link (oder einfach im F-Droid App Store nach Smart AutoClicker suchen):
+Option B: F-Droid Download Link (oder nach Bedarf den F-Droid App Store installieren und da nach Smart AutoClicker suchen):
 https://f-droid.org/en/packages/com.buzbuz.smartautoclicker/
 
 (Der übliche Prozess zur Installation von APK Dateien wird hier benötigt, also müsst ihr "Installation von unbekannten Quellen" erlauben . Falls ihr keine Erfahrung mit der Installation von APKs habt würde ich euch empfehlen die Erlaubnis dannach wieder zu Deaktivieren, damit ihr nicht irgendwann mal aus Versehen beim surfen auf ner boßhaftigen Werbung klickt und der Finger auf "Installieren" verrutscht. Ist je nach Hersteller und Android-Version etwas unterschiedlich aber auf den aktuellen Versionen findet man die Berechtigung unter Einstellungen > Apps & Berechtigungen > Spezieller App Zugriff > Installieren unbekannter Apps)
@@ -40,7 +40,9 @@ Die Sichtbarkeit des Rosen-Buttons wird jede 5 Sekunden überprüft, das bedeute
 
 Die Klick-Punkte verlangen leider feste X-Y Koordinaten und die Wartezeit zwischen jedem Klick wird bei jedem definierten Klick als Konstante definiert. Fühlt euch frei die Koordinaten zu korrigieren und die Timings anzupassen falls es Probleme bei eurem Gerät verursacht oder wenn ihr einen milderen Effekt haben wollt.
 
-Ihr könnt mit jederzeit bei Github unter https://github.com/morpheasgr/TikTokLiveLikeBot unter "Issues" Probleme, Fragen oder Wünsche melden, denn mein Ziel ist es den Bot so anzupassen, dass er universal auf allen Android-Geräten ohne Aufwand gebrauchbar ist.
+# Fragen, Kontakt, Feedback etc:
+
+Ihr könnt jederzeit bei Github unter https://github.com/morpheasgr/TikTokLiveLikeBot unter "Issues" Probleme, Fragen oder Wünsche melden, mein Ziel ist es den Bot so anzupassen, dass er universal auf allen Android-Geräten ohne Extra-Aufwand einsatzbereit und safe ist.
 
 Mit freundlichen Grüßen,
 Morpheas
