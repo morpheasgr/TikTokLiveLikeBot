@@ -1,9 +1,10 @@
 # TikTokLiveLikeBot
-Ein Click-Bot für TikTok Live (stream) likes. Basiert auf Smart AutoClicker, 
+Eine Click-Bot Konfiguration für TikTok Live (stream) likes.
+Basiert auf Smart AutoClicker (Open-Source)
 
 Vorwort:
 
-Das Smart AutoClicker Programm worauf der Bot basiert ist ist Open Source, hat keine Werbung und ich habe mich für diese Lösung entschieden, weil ich den zahlreichen chinesischen Clickern auf Google Play Store nicht vertraue. Jeder ClickBot benötigt die Erlaubnis zu sehen was auf dem Bildschirm angezeigt wird, und die Erlaubnis auf dem Bildschirm beliebig etwas anzuklicken. Offener Quellcode bedeutet in diesem Fall keine Geheimnisse, keine Datensammlung und keine Viren.
+Das Smart AutoClicker Programm worauf der Bot läuft ist ist Open Source, hat keine Werbung und ich habe mich für diese Lösung entschieden, weil ich den zahlreichen chinesischen Clickern auf dem Google Play Store nicht vertraue. Jeder ClickBot benötigt die Erlaubnis zu sehen was auf dem Bildschirm angezeigt wird, und die Erlaubnis auf dem Bildschirm beliebig etwas anzuklicken. Offener Quellcode bedeutet in diesem Fall keine Geheimnisse, kein Risiko, keine Datensammlung und keine Viren/Hintertüren.
 
 ## Installationsanleitung:
 
