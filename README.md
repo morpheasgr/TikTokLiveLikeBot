@@ -7,12 +7,14 @@ Das Smart AutoClicker Programm worauf der Bot basiert ist ist Open Source, hat k
 
 ## Installationsanleitung:
 
-1) Smart AutoClicker installieren ber die APK oder über den F-Droid App Store:
+### 1) Smart AutoClicker installieren ber die APK oder über den F-Droid App Store:
 
-a. Github Download Link:
+Option A. Github Download Link:
 https://github.com/Nain57/Smart-AutoClicker/releases/latest/download/smartautoclicker-release.apk
 
-b. F-Droid Download Link, oder einfach im F-Droid App Store nach Smart AutoClicker suchen:
+Oder
+
+Option B. F-Droid Download Link (oder einfach im F-Droid App Store nach Smart AutoClicker suchen):
 https://f-droid.org/en/packages/com.buzbuz.smartautoclicker/
 
 (Der übliche Prozess zur Installation von APK Dateien wird hier benötigt, also müsst ihr "Installation von unbekannten Quellen" erlauben . Falls ihr keine Erfahrung mit der Installation von APKs habt würde ich euch empfehlen die Erlaubnis dannach wieder zu Deaktivieren, damit ihr nicht irgendwann mal aus Versehen beim surfen auf ner boßhaftigen Werbung klickt und der Finger auf "Installieren" verrutscht. Ist je nach Hersteller und Android-Version etwas unterschiedlich aber auf den aktuellen Versionen findet man die Berechtigung unter Einstellungen > Apps & Berechtigungen > Spezieller App Zugriff > Installieren unbekannter Apps)
@@ -22,7 +24,7 @@ Bei der ersten Ausführung Berechtigungen ("Über andere Apps einblenden", "Bedi
 Quellcode findet ihr hier bei Interesse oder falls ihr wie ich gerne überprüft welchen Programmen ihr vertraut:
 https://github.com/Nain57/Smart-AutoClicker
 
-2) Meine Backup-ZIP Datei (SmartAutoClicker-TikTokLiveLikeBot.zip) herunterladen und über das Ordner-Symbol un Smart AutoClicker importieren, dann jedes mal über Smart AutoClicker das "Szenario" (den Bot) anklicken/laden und von der Overlay Leiste die dann angezeigt wird beliebig auf Play, Pause, bearbeiten oder Stop drücken.
+### 2) Meine Backup-ZIP Datei (SmartAutoClicker-TikTokLiveLikeBot.zip) herunterladen und über das Ordner-Symbol im Smart AutoClicker importieren, dann jedes mal über Smart AutoClicker das "Szenario" (den Bot) anklicken/laden und von der Overlay Leiste die dann angezeigt wird beliebig auf Play, Pause, bearbeiten oder Stop drücken.
 
 Download:
 https://github.com/morpheasgr/TikTokLiveLikeBot/releases/latest/download/SmartAutoClicker-TikTokLiveLikeBot.zip
